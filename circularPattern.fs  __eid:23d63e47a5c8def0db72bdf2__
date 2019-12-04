@@ -13,7 +13,7 @@ import(path : "onshape/std/curveGeometry.fs", version : "1188.0");
 import(path : "onshape/std/math.fs", version : "1188.0");
 
 /**
- * Performs a body, face, or feature circular pattern. Internally, performs
+ * Performs a body, face, or feature circular pattern. Internally, performsaedru hefda hyaedfshafh
  * an [applyPattern], which in turn performs an [opPattern] or, for a feature
  * pattern, calls the feature function.
  *
