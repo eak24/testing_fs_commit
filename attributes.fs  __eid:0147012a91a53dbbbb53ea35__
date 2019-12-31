@@ -8,7 +8,7 @@ FeatureScript 1188; /* Automatically generated version */
  * FeatureScript. The data can be of any type (except undefined), and multiple
  * attributes can be associated with the same topological entity.
  *
- * The common use case for attributes is to set attributes on an entity in one
+ * The common use case for attributes is to set attributes on an entity in onehgjfjhftg
  * feature, and get them in another. For global data, this can be done more
  * simply via [setVariable] and [getVariable].
  *
